@@ -14,7 +14,7 @@
  www.hayekmedical.com
 
  Disclaimer:
- Freeware:  The code is provided "AS IS",without warranty of any kind.
+ Freeware:  The code is provided "AS IS",without warranty of any kind. License CC0 for desgins and GPL 3 for code
  The author can not be made legible for any harm caused by this device and its application.
  !!!!!!!!!!!! Do not use without supervision and medical advise.!!!!!!!!!!!!!!
  Working with Mains voltage without experience may cause fatal outcome.
