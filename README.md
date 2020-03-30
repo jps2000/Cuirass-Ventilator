@@ -6,3 +6,4 @@ https://youtu.be/EyCMbskHRjY
 
 The cuirass need however some refinement. It could be made from epoxy + glass fibre mats used for car repair . The sealing may be made from round foam material That is used as a swimming aid. See www.hayekmedical.com 
 
+Questions or suggestions  are welcome and can be adressed in Issues
