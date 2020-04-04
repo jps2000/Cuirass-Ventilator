@@ -4,7 +4,7 @@ The respiratory rate can be set with up/ down buttons. A display could be added 
 
 A video showing the prototype can be found here: https://youtu.be/EyCMbskHRjY
 
-The cuirass need however some refinement. It could be made from epoxy + glass fibre mats used for car repair . The sealing may be made from round foam material That is used as a swimming aid. 
+A cuirass  proposal is designed in Fusion360 on a male torso . Sacle is baout 1:120 . It could be made from epoxy + glass fibre mats used for car repair . The sealing may be made from round foam material That is used as a swimming aid. 
 
 See www.hayekmedical.com  for informations about the working principle. This company issued also a prophetic flyer already in 2014 (see pandemicfinal.pdf)
 
